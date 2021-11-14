@@ -2,7 +2,7 @@
 clear
 Menu() {
     clear
-    echo -e '\n'
+    echo -e '\f'
    echo "     ==================================="
     echo "             LOOP DE CONEXÃO (ROOT)     "
    echo "        ==================================="
