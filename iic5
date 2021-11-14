@@ -33,7 +33,7 @@ Menu() {
     6) App6;;
     P) App0;;
     p) App0;;
-    *) "Calma Barboleta" ; echo ; Menu;;
+    *) "Calma Princesa" ; echo ; Menu;;
     esac
     connect
     }
